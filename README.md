@@ -18,8 +18,6 @@ A data transfer object representing the basic response for each entity type is p
 
 ### Endpoint Documentation
 
-The focus of this assignment is on creating endpoints and implementing their functionality in the provided Controller, Service, and Repositories. Note that there is a repository for each table in the database, but there is only 1 controller and 1 service which should handle all the endpoints below. The `Get /quiz` endpoint is implemented for you as an example for you to follow while implemented the other 6.
-
 - [ ] `GET quiz`
     - Returns the collection of `Quiz` elements
 
