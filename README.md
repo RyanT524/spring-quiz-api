@@ -2,7 +2,7 @@ Quiz API
 =============================
 ## Overview
 
-In this assignment students are tasked with creating a small RESTful API that simulates basic backend functionality for a quiz application. Students are given a skeleton that has the `GET quiz` endpoint completely implemented as well as the infrastructure required for it to function. This will allow students to focus solely on completing the other 6 endpoints listed in the [Endpoint Documentation](#endpoint-documentation) below. Student's should start by looking through the provided skeleton and running the app to see what it does.
+A small RESTful API that simulates basic backend functionality for a quiz application. [Endpoint Documentation](#endpoint-documentation)
 
 ### Summary of the API
 
