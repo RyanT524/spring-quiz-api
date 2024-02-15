@@ -12,8 +12,6 @@ An entity relationship diagram is provided below that represents the database us
 ![quiz-api](https://user-images.githubusercontent.com/32781877/158852533-29305164-9e9e-41b2-a808-fb1d717b70cf.png)
 
 
-A data transfer object representing the basic response for each entity type is provided in the skeleton. Notice that the DTOs are slightly different than the entities. This is intentional and is done in order to avoid infinite recursion when serializing to JSON. The student will need to add more DTOs and when they do will also need to add more functionality to their mapper interfaces. (HINT: you will at the minimum need to add a QuizRequestDto)
-
 ---
 
 ### Endpoint Documentation
